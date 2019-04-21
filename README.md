@@ -1,7 +1,7 @@
 # CS-5661-Advance-Topics-in-Data-Science  | Spring 2019
 CS 5661 Advance Topics in Data Science (Assignments &amp; Labs)
 
-<a href="https://github.com/smitkumarpatel4/CS_4661_Data_Science_Class_Workspace">Prerequisite: CS4661</a> 
+Prerequisite: <a href="https://github.com/smitkumarpatel4/CS_4661_Data_Science_Class_Workspace">CS4661</a> 
 
 Course Description:
 - Advanced algorithms, techniques, and tools for machine learning, data processing, and extracting knowledge from large-scale data, and use it for
