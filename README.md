@@ -13,25 +13,25 @@ Topics Covered:
 - Review of Learning methods and Error Evaluation: Training/Validation/Testing, Cross Validation, Result validation, error identification, various metrics for evaluation the prediction performance
 -	Ensemble Learning algorithms
 -	Support Vector Machine (SVM)
-  -	Linear SVM
-  -	Non-linear SVM
-  -	Kernel Theory
+    - Linear SVM
+    -	Non-linear SVM
+    -	Kernel Theory
 -	Principal Component Analysis (PCA) for Dimensionality Reduction 
 -	Artificial Neural Networks (ANN)
-  -	Introduction, motivations, applications
-  -	Multi-Layer Perceptron
-  -	Definitions, Algorithms, Methods
-  -	Backpropagation for training an ANN
+    -	Introduction, motivations, applications
+    -	Multi-Layer Perceptron
+    -	Definitions, Algorithms, Methods
+    -	Backpropagation for training an ANN
 -	Deep Learning
-  -	Introduction, motivations, applications
-  -	Deep Neural Networks (DNN)
-  -	Challenges with Deep Neural Networks
-  -	Restricted Boltzmann Machines (RBM)
-  -	Deep Belief Networks (DBN)
-  -	Deep AutoEncoder
-  -	Convolutional Neural Networks (CNN, ConvNet)
-  -	Recurrent Neural Networks (RNN)
-  -	Practical Tutorials, Tools, and Frameworks
+    -	Introduction, motivations, applications
+    -	Deep Neural Networks (DNN)
+    -	Challenges with Deep Neural Networks
+    -	Restricted Boltzmann Machines (RBM)
+    -	Deep Belief Networks (DBN)
+    -	Deep AutoEncoder
+    -	Convolutional Neural Networks (CNN, ConvNet)
+    -	Recurrent Neural Networks (RNN)
+    -	Practical Tutorials, Tools, and Frameworks
 
 
 Learning Outcomes:
