@@ -1,5 +1,5 @@
 # CS-5661-Advance-Topics-in-Data-Science  | Spring 2019
-CS 5661 Advance Topics in Data Science (Assignments &amp; Labs)
+CS 5661 Advance Topics in Data Science (Slides, Labs and Assignments)
 
 Prerequisite: <a href="https://github.com/smitkumarpatel4/CS_4661_Data_Science_Class_Workspace">CS4661</a> 
 
