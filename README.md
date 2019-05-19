@@ -34,4 +34,4 @@ Topics Covered:
     -	Practical Tutorials, Tools, and Frameworks
 
 
-Project: <a href="https://github.com/smitkumarpatel4/Humpaback_Whale_Identification">Humpback Whale Identification using Convolutional Neural Network </a> 
+Project: <a href="https://github.com/smitkumarpatel4/Humpback_Whale_Identification">Humpback Whale Identification using Convolutional Neural Network </a> 
