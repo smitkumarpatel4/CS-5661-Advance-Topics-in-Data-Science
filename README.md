@@ -34,14 +34,4 @@ Topics Covered:
     -	Practical Tutorials, Tools, and Frameworks
 
 
-Learning Outcomes:
-- Understand and use advanced techniques for data pre-processing.
-- Understand advanced concepts, applications, and algorithms of data analytics, data mining, and machine learning.
--  Understand and use the most important statistical modeling and machine learning algorithms including Support Vector Machine (SVM), Artificial
-Neural Networks (ANN), Deep Neural Networks, Principal Component Analysis, Convolutional Neural Networks and Deep Learning, etc.
-- Understand the advantages/disadvantages of the new techniques in comparison with previously learned methods
-- Understand and use various algorithms for dimensionality reduction and feature selection for big data analytics.
-- Understand and use result visualization/validation, error identification,cross validation, various metrics for evaluation the prediction accuracy.
-- Understand the basics of big data manipulation, parallel processing, MapReduce, and main tools and frameworks.
-- Understand and use the main algorithms and techniques for large-scale data analytics and large-scale machine learning.
-- Understand and use tools, software packages, and libraries for data processing, analytics, and machine learning.
+Project: <a href="https://github.com/smitkumarpatel4/Humpaback_Whale_Identification">Humpback Whale Identification using Convolutional Neural Network </a> 
